@@ -18,10 +18,10 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/Sonic-Haliza/Palandima
 ```
 
-## Install the dependencies:
+## Install the dependencies
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
@@ -31,7 +31,7 @@ you've just cloned!!
 ```
 
 ### Usage
-Before running this script, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
+Before running this script, first edit [082211991425](https://github.com/Sonic-Haliza/Palandima) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
 ```bash
 > npm start
 ```
@@ -109,5 +109,4 @@ Fix Stuck on linux, install google chrome stable:
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+
